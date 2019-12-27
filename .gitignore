@@ -1,0 +1,7 @@
+# Project exclude paths
+/target/
+/Screenshots/
+/.idea/
+/automation.log
+/debug.log
+/*.iml
